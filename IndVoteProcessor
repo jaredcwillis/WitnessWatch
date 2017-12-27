@@ -1,0 +1,58 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Dec 27 12:02:02 2017
+
+@author: Jared
+"""
+from steemdata import SteemData
+s=SteemData()
+import pandas as pd
+import os
+import plotly
+import cufflinks as cf
+import glob
+import math
+
+plotly.tools.set_credentials_file(username='JaredWillis', api_key='5lsjiVKshIQpXgwLz1pv')
+cf.set_config_file(offline=False, world_readable=True, theme='ggplot')
+#####
+#Set Directory
+####
+
+targetDirectory=('/Users/Jared/SD/indvotes')
+
+os.chdir(targetDirectory)
+extension = 'csv'
+fileList = [i for i in glob.glob('*.{}'.format(extension))]
+print(fileList)
+finalString=""
+
+def reputationCalc(self, precision=2):
+        rep = (self)
+        if rep == 0:
+            return 25
+        score = (math.log10(abs(rep)) - 9) * 9 + 25
+        if rep < 0:
+            score = 50 - score
+        return round(score, precision)
+    
+for file in fileList:
+    csvHolder=pd.read_csv(file, nrows=5, index_col=0).rename(columns={"authorName": "Author", "count": "Number of Votes", "reputation":"Reputation"}).reset_index(drop=True)
+    authorList=csvHolder.Author.tolist()
+    repList=[]
+    for author in authorList:
+        rawRep=int(s.Accounts.find_one({'name':author})['reputation'])
+        realRep=reputationCalc(rawRep)
+        repList.append(realRep)
+    csvHolder['Rep']=repList
+    del csvHolder['Reputation']
+    print(csvHolder)
+    currentWitness=file.split("_")[1].split(".")[0]
+    csvHtml=csvHolder.to_html()
+    print(csvHtml)
+    csvFormat="<center>\n### @%s ###\n</center>\n" %currentWitness+csvHtml 
+    print(csvFormat)
+    finalString=finalString+csvFormat+'\n\n'
+with open("post.txt", "w") as text_file:
+    text_file.write(finalString)

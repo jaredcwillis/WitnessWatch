@@ -1,0 +1,1334 @@
+<center>
+### @aggroed ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>everittdmickey</td>
+      <td>2696</td>
+      <td>72.55</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>barrydutton</td>
+      <td>1436</td>
+      <td>74.03</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>aggroed</td>
+      <td>863</td>
+      <td>72.53</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>papa-pepper</td>
+      <td>757</td>
+      <td>77.22</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>doitvoluntarily</td>
+      <td>747</td>
+      <td>75.59</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @anyx ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>cheetah</td>
+      <td>1134</td>
+      <td>72.59</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>knozaki2015</td>
+      <td>811</td>
+      <td>77.76</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>steemcleaners</td>
+      <td>640</td>
+      <td>76.11</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>fubar-bdhr</td>
+      <td>500</td>
+      <td>67.11</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>anyx</td>
+      <td>420</td>
+      <td>68.22</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @ausbitbank ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>papa-pepper</td>
+      <td>663</td>
+      <td>77.22</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>acidyo</td>
+      <td>649</td>
+      <td>74.27</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>ausbitbank</td>
+      <td>580</td>
+      <td>72.08</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>aggroed</td>
+      <td>492</td>
+      <td>72.53</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>titusfrost</td>
+      <td>445</td>
+      <td>70.19</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @bhuz ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>thenightflier</td>
+      <td>148</td>
+      <td>66.43</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>steempostitalia</td>
+      <td>102</td>
+      <td>65.20</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>webdeals</td>
+      <td>88</td>
+      <td>68.21</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>claudiop63</td>
+      <td>79</td>
+      <td>66.10</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>alinakot</td>
+      <td>78</td>
+      <td>63.50</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @blocktrades ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>michelle.gent</td>
+      <td>464</td>
+      <td>74.30</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>suesa</td>
+      <td>181</td>
+      <td>70.68</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>steemsports</td>
+      <td>158</td>
+      <td>78.51</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>blocktrades</td>
+      <td>153</td>
+      <td>70.60</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>ats-david</td>
+      <td>132</td>
+      <td>73.93</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @cervantes ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>jgcastrillo19</td>
+      <td>233</td>
+      <td>70.01</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>fakj94</td>
+      <td>213</td>
+      <td>62.49</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>cervantes</td>
+      <td>201</td>
+      <td>71.10</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>don.quijote</td>
+      <td>170</td>
+      <td>63.53</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>sancho.panza</td>
+      <td>154</td>
+      <td>63.44</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @clayop ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>clayop</td>
+      <td>205</td>
+      <td>72.34</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>morning</td>
+      <td>140</td>
+      <td>69.36</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>curie</td>
+      <td>119</td>
+      <td>75.28</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>woo7739</td>
+      <td>68</td>
+      <td>67.86</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>sochul</td>
+      <td>67</td>
+      <td>71.69</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @curie ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>jsantana</td>
+      <td>127</td>
+      <td>69.60</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>drago18121996</td>
+      <td>126</td>
+      <td>61.30</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>ayijufridar</td>
+      <td>123</td>
+      <td>61.37</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>charlesx</td>
+      <td>114</td>
+      <td>61.39</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>rismanrachman</td>
+      <td>111</td>
+      <td>58.99</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @drakos ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>drakos</td>
+      <td>159</td>
+      <td>62.89</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>minnowsupport</td>
+      <td>121</td>
+      <td>67.33</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>timcliff</td>
+      <td>63</td>
+      <td>72.51</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>overkillcoin</td>
+      <td>55</td>
+      <td>63.13</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>keepdoodling</td>
+      <td>52</td>
+      <td>62.39</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @followbtcnews ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>stephenkendal</td>
+      <td>176</td>
+      <td>73.57</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>papa-pepper</td>
+      <td>155</td>
+      <td>77.22</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>cryptomonitor</td>
+      <td>146</td>
+      <td>64.06</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>followbtcnews</td>
+      <td>137</td>
+      <td>64.31</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>jerrybanfield</td>
+      <td>119</td>
+      <td>73.11</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @furion ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>dana-edwards</td>
+      <td>599</td>
+      <td>73.72</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>steemsports</td>
+      <td>457</td>
+      <td>78.51</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>knozaki2015</td>
+      <td>365</td>
+      <td>77.76</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>kingscrown</td>
+      <td>275</td>
+      <td>75.89</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>useruploads</td>
+      <td>256</td>
+      <td>-0.27</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @good-karma ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>good-karma</td>
+      <td>1445</td>
+      <td>74.36</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>rymlen</td>
+      <td>1220</td>
+      <td>63.36</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>wilkinshui</td>
+      <td>1152</td>
+      <td>66.53</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>taufar</td>
+      <td>669</td>
+      <td>57.15</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>tj4real</td>
+      <td>628</td>
+      <td>62.24</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @gtg ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>kingscrown</td>
+      <td>252</td>
+      <td>75.89</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>gtg</td>
+      <td>178</td>
+      <td>65.05</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>heiditravels</td>
+      <td>101</td>
+      <td>72.35</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>fukako</td>
+      <td>101</td>
+      <td>62.18</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>sweetsssj</td>
+      <td>89</td>
+      <td>75.37</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @jerrybanfield ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>jerrybanfield</td>
+      <td>597</td>
+      <td>73.11</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>netuoso</td>
+      <td>346</td>
+      <td>68.19</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>machhour</td>
+      <td>310</td>
+      <td>59.24</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>jaynie</td>
+      <td>288</td>
+      <td>65.90</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>lexiconical</td>
+      <td>221</td>
+      <td>69.66</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @jesta ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>charles1</td>
+      <td>3817</td>
+      <td>63.07</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>kenhudoy</td>
+      <td>3462</td>
+      <td>59.53</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>birjudanak</td>
+      <td>2922</td>
+      <td>57.79</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>tattoodjay</td>
+      <td>2345</td>
+      <td>61.78</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>jeffjagoe</td>
+      <td>2207</td>
+      <td>59.50</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @klye ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>klye</td>
+      <td>839</td>
+      <td>72.31</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>barrydutton</td>
+      <td>609</td>
+      <td>74.03</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>timcliff</td>
+      <td>130</td>
+      <td>72.51</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>matrixdweller</td>
+      <td>129</td>
+      <td>-15.22</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>fyrstikken</td>
+      <td>128</td>
+      <td>73.57</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @liondani ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>liondani</td>
+      <td>597</td>
+      <td>68.16</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>dantheman</td>
+      <td>151</td>
+      <td>73.48</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>onceuponatime</td>
+      <td>129</td>
+      <td>71.44</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>good-karma</td>
+      <td>123</td>
+      <td>74.36</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>skapaneas</td>
+      <td>120</td>
+      <td>69.53</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @lukestokes ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>steemcleaners</td>
+      <td>190</td>
+      <td>76.11</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>hilarski</td>
+      <td>162</td>
+      <td>73.69</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>adamkokesh</td>
+      <td>66</td>
+      <td>67.50</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>jedau</td>
+      <td>61</td>
+      <td>66.21</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>sean-king</td>
+      <td>54</td>
+      <td>68.85</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @netuoso ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>netuoso</td>
+      <td>917</td>
+      <td>68.19</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>sammosk</td>
+      <td>109</td>
+      <td>66.83</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>igster</td>
+      <td>92</td>
+      <td>60.48</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>gmuxx</td>
+      <td>82</td>
+      <td>63.90</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>msp-creativebot</td>
+      <td>73</td>
+      <td>62.13</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @pfunk ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>pfunk</td>
+      <td>647</td>
+      <td>72.57</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>marinauzelac</td>
+      <td>371</td>
+      <td>70.54</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>noganoo</td>
+      <td>334</td>
+      <td>-8.14</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>luzcypher</td>
+      <td>293</td>
+      <td>73.22</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>passion-ground</td>
+      <td>274</td>
+      <td>58.97</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @pharesim ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>bleujay</td>
+      <td>946</td>
+      <td>67.09</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>homeartpictures</td>
+      <td>789</td>
+      <td>72.30</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>knozaki2015</td>
+      <td>670</td>
+      <td>77.76</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>hrsagar</td>
+      <td>585</td>
+      <td>63.21</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>evildeathcore</td>
+      <td>550</td>
+      <td>67.96</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @riverhead ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>nano2nd</td>
+      <td>409</td>
+      <td>63.58</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>german-trail</td>
+      <td>363</td>
+      <td>64.16</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>photo-trail</td>
+      <td>321</td>
+      <td>65.41</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>spanish-trail</td>
+      <td>309</td>
+      <td>65.46</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>food-trail</td>
+      <td>275</td>
+      <td>61.02</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @roelandp ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>arcange</td>
+      <td>375</td>
+      <td>68.99</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>hilarski</td>
+      <td>340</td>
+      <td>73.69</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>stellabelle</td>
+      <td>263</td>
+      <td>75.45</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>shla-rafia</td>
+      <td>260</td>
+      <td>68.34</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>acidyo</td>
+      <td>243</td>
+      <td>74.27</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @smooth ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>halo</td>
+      <td>332</td>
+      <td>71.66</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>knozaki2015</td>
+      <td>247</td>
+      <td>77.76</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>gavvet</td>
+      <td>241</td>
+      <td>77.25</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>sirwinchester</td>
+      <td>178</td>
+      <td>75.19</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>steemsports</td>
+      <td>178</td>
+      <td>78.51</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @someguy123 ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>someguy123</td>
+      <td>148</td>
+      <td>67.88</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>barrydutton</td>
+      <td>115</td>
+      <td>74.03</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>papa-pepper</td>
+      <td>112</td>
+      <td>77.22</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>tarazkp</td>
+      <td>95</td>
+      <td>69.63</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>kingscrown</td>
+      <td>90</td>
+      <td>75.89</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @thecryptodrive ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>welcomebot</td>
+      <td>2951</td>
+      <td>51.03</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>steemtrail</td>
+      <td>1984</td>
+      <td>73.78</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>steemsports</td>
+      <td>1332</td>
+      <td>78.51</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>barrydutton</td>
+      <td>1332</td>
+      <td>74.03</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>halo</td>
+      <td>1311</td>
+      <td>71.66</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @timcliff ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>timcliff</td>
+      <td>610</td>
+      <td>72.51</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>jlufer</td>
+      <td>503</td>
+      <td>72.96</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>steemsports</td>
+      <td>400</td>
+      <td>78.51</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>barrydutton</td>
+      <td>285</td>
+      <td>74.03</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>merej99</td>
+      <td>244</td>
+      <td>69.74</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @wackou ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>dana-edwards</td>
+      <td>530</td>
+      <td>73.72</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>steemcleaners</td>
+      <td>460</td>
+      <td>76.11</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>knozaki2015</td>
+      <td>358</td>
+      <td>77.76</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>olegst</td>
+      <td>328</td>
+      <td>63.79</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>fubar-bdhr</td>
+      <td>303</td>
+      <td>67.11</td>
+    </tr>
+  </tbody>
+</table>
+
+<center>
+### @xeldal ###
+</center>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Author</th>
+      <th>Number of Votes</th>
+      <th>Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>rymlen</td>
+      <td>904</td>
+      <td>63.36</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>wilkinshui</td>
+      <td>721</td>
+      <td>66.53</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>kafkanarchy84</td>
+      <td>708</td>
+      <td>73.85</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>gauravchugh</td>
+      <td>571</td>
+      <td>55.52</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>doitvoluntarily</td>
+      <td>514</td>
+      <td>75.59</td>
+    </tr>
+  </tbody>
+</table>
+
