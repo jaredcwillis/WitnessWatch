@@ -6,7 +6,7 @@ import pandas as pd
 import os
 import plotly
 import math
-plotly.tools.set_credentials_file(username='JaredWillis', api_key='5lsjiVKshIQpXgwLz1pv')
+plotly.tools.set_credentials_file(username='plotlyusername', api_key='plotlyapikey')
 
 #####
 #Set Directory
